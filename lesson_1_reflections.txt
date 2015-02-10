@@ -1,0 +1,65 @@
+Question 1:
+	How did viewing a diff between two versions of a file help you see
+	the bug that was introduced?
+
+Reflections:
+	A diff or FC(For windows) compares the contents of the two files and
+	displays the lines where it finds differences along with the line
+	numbers. It is helpful in a quick comparison in case of very large
+	files and thus reduces the tediousness of the file comparison
+	process.
+
+Question 2:
+	How could having easy access to the entire history of a file make
+	you a more efficient programmer in the long term?
+
+Reflections:
+	The history of a file makes it possible to see the earlier versions
+	of a particular file. It helps in analysing common mistakes which
+	can be later corrected. It also helps in reverting back to an
+	earlier working or stable version of file.
+
+Question 3:
+	What do you think are the pros and cons of manually choosing when
+	to create a commit, like you do in Git, vs having versions
+	automatically saved, like Google docs does?
+
+Reflections:
+	better control over frequency of commits
+
+Question 4:
+	Why do you think some version control systems, like Git, allow
+	saving multiple files in one commit, while others, like Google
+	Docs, treat each file separately?
+
+Reflections:
+	Git commit with multiple files are used for files that are interdependent. Google Docs treats each file separately.
+
+Question 5:
+	How can you use the commands git log and git diff to view the
+	history of files?
+
+Reflections:
+	to use git log type the command git log on the git bash when
+	repository is pwd. It shows all the commits with their ids and
+	comments added about commits. To use git diff, type git diff 
+	followed by ids of two commits to be compared. It gives the
+	the deleted and added lines with their line numbers and 
+	highlighted in color.
+
+Question 6:
+	How might using version control make you more confident to make
+	changes that could break something?
+
+Reflections:
+	Version control makes it convenient to use the last working or bug
+	free code in case a bug is introduced inadvertently. It also makes
+	it possible to find the bug by using the diff command.
+
+Question 7:
+	Now that you have your workspace set up, what do you want to try
+	using Git for?
+
+Reflections:
+	I am going to use git for all my coding and writing purposes from
+	now on.
