@@ -16,3 +16,9 @@ Reflections:
 	repository. Advantage is that it allows for a committing all files
 	in the staging area at the same time.
 
+Question 3:
+	How can you use the staging area to make sure you have one commit
+	per logical change?
+
+Reflections:
+	By adding and commiting logical changes one by one seperately.
