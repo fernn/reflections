@@ -32,3 +32,13 @@ Reflections:
 	new ideas without affecting the original working code. It is helpful in case of bigger projects as separate teams can work on
 	different ideas by making separate branches and later merging the
 	tested ideas and features.
+
+Question 5:
+	How do the diagrams help you visualize the branch structure?
+
+Reflections:
+	Diagrams are helpful in visualising branches of commits in a tree
+	form. It is easier to identify the position of a commit in a graph.
+	use this command $ git log --graph --oneline <branch_name> master
+
+
