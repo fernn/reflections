@@ -41,4 +41,15 @@ Reflections:
 	form. It is easier to identify the position of a commit in a graph.
 	use this command $ git log --graph --oneline <branch_name> master
 
+Question 6:
+	What is the result of merging two branches together? Why do we
+	represent it in the diagram the way we do?
+
+Reflections:
+	Merging two branches results in a new commit that contains the
+	common code along with any additions in any files. The deletions
+	are not included. Command used is $git merge master <branch_name>.
+	In the diagram a new merged commit is created which has parents from
+	both the merged branches. The label of one of the branches is
+	removed by using the command $ git branch -d <branch_name>
 
