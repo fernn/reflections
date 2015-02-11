@@ -22,3 +22,13 @@ Question 3:
 
 Reflections:
 	By adding and commiting logical changes one by one seperately.
+
+Question 4:
+	What are some situations when branches would be helpful in keeping
+	your history organized? How would branches help?
+
+Reflections:
+	Branches help in experimenting with your code. It helps to try out
+	new ideas without affecting the original working code. It is helpful in case of bigger projects as separate teams can work on
+	different ideas by making separate branches and later merging the
+	tested ideas and features.
