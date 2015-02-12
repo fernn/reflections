@@ -53,3 +53,16 @@ Reflections:
 	both the merged branches. The label of one of the branches is
 	removed by using the command $ git branch -d <branch_name>
 
+Question 7:
+	What are the pros and cons of Git’s automatic merging vs. always
+	doing merges manually?
+
+Reflections:
+	Automatic merging makes the process of merging two branches easier
+	and quicker. Problems may arise in case of conflicts. Conflicts can
+	be resolved by discussions between the two developers who wrote
+	the parts of conflicting code to decide what to retain and what
+	to remove. On the other hand, always doing merges manually wiil
+	be tedious and difficult. It will consume time and conflicts will be
+	hard to figure out.
+	
