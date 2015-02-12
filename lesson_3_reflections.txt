@@ -1,0 +1,12 @@
+Question 1:
+  When would you want to use a remote repository rather than keeping all your work local?
+  
+Reflections:
+  It would be useful to use a remote repository if one wants to save the project in the cloud or wheh sharing and 
+  collaborating the project with others. Keeping the work local puts constraints on sharing the work with others.
+  These commands can be used:
+    to add remote: $git remote add <remote_name> <link_to_repository_on_github>
+    to view remote: $git remote -v
+    to push the current branch to remote: $git push <remote_name> <branch_name>
+    
+    
