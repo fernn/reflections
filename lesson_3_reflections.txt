@@ -35,3 +35,12 @@ Reflections:
 	used to try out new features and experimentation before
 	 incorporating the changes to master branch.
 
+Question 4:
+	What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Reflections:
+	It helps in relative state of the local repository with that of the 
+	remote. It helps in resolving merge conflicts. It helps in pushing
+	changes to remote. The command git fetch only updates the copy of remote from <remote_name> to <remote_name>/master.
+
+
