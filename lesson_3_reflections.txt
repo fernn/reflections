@@ -20,4 +20,18 @@ Reflections:
 	These commands to be used for pulling:
 		to pull remote to local: $git pull <remote_name> <branch_name>
 
-	
+Question 3:
+	Describe the differences between forks, clones, and branches. When
+	would you use one instead of another?
+
+Reflections:
+	I understand fork as copying of a project up to certain point and
+	then independent development. It can used when different versions
+	have to be developed for the same code. For example android forked
+	for implementation on mobile, tablets and tv.
+		Clone is a just a copy of the project and its commit history.
+	Here it is defined as copying from Github to local or local to local
+	Branching refers to creation of branches within a repository. It is
+	used to try out new features and experimentation before
+	 incorporating the changes to master branch.
+
