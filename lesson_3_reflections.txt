@@ -9,4 +9,15 @@ Reflections:
     to view remote: $git remote -v
     to push the current branch to remote: $git push <remote_name> <branch_name>
     
-    
+Question 2:
+	Why might you want to always pull changes manually rather than
+	having Git automatically stay up-to-date with your remote 
+	repository?    
+
+Reflections:
+	Manually pulling changes provides greater control over syncing the
+	files in local and remote repositories. 
+	These commands to be used for pulling:
+		to pull remote to local: $git pull <remote_name> <branch_name>
+
+	
