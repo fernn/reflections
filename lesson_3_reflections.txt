@@ -43,4 +43,13 @@ Reflections:
 	remote. It helps in resolving merge conflicts. It helps in pushing
 	changes to remote. The command git fetch only updates the copy of remote from <remote_name> to <remote_name>/master.
 
+Question 5:
+	How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Reflections:
+	Withou git or any other cvs I would have to share whole project by 
+	copying files to others computers. I would be tedious and will take 
+	lot of time. With git members can work independently and sharing 
+	and collaboration acquires tools. I would be harder without git.
+
 
